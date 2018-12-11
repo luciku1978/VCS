@@ -1,0 +1,4 @@
+nume,varsta,salariu
+popescu,20,1500
+ionescu,25,2000
+georgescu,35,4000
